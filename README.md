@@ -1,5 +1,5 @@
 # Zip-Text
-Android app prototype made with AppInventor
+Android app prototype made with AppInventor.
 
 - Save time by making it easier to call or send texts to your closest contacts.
 - Customize the wording of the texts and change the contacts.
